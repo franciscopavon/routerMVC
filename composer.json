@@ -1,0 +1,15 @@
+{
+    "name": "franciscopavon/router-mvc",
+    "autoload": {
+        "psr-4": {
+            "Franciscopavon\\RouterMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "franciscopavon",
+            "email": "a22pafefr@iesgrancapitan.org"
+        }
+    ],
+    "require": {}
+}
