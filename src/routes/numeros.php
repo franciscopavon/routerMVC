@@ -14,9 +14,6 @@ namespace Franciscopavon\RouterMvc\routes;
 <body>
     <ul>
     <?php
-    // if $routerParams[0] is not set, it will generate the 10 first pair numbers
-    // if $routerParams[0] is set, it will generate the $routerParams[0] first pair numbers
-    // example for 10: 2, 4, 6, 8, 10, 12, 14, 16, 18, 20
 
     $num = 2;
     $i = 0;
